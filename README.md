@@ -10,3 +10,4 @@ Interesting things found in the internet. Usually tools and cool projects.
 * [Replit](https://replit.com/): Yet another AI-powered webapp builder.
 * [Shoulder.dev](https://shoulder.dev/): It provides explanations of codebases. Good to onboard new team members.
 * [Swim](https://swimm.io/): It automatically generates documentation for your code using AI.
+* [Cline](https://github.com/cline/cline): An AI assistant for software development tasks. It can be used from the console and the editor with support for multiple models.
