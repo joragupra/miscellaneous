@@ -11,3 +11,8 @@ Interesting things found in the internet. Usually tools and cool projects.
 * [Shoulder.dev](https://shoulder.dev/): It provides explanations of codebases. Good to onboard new team members.
 * [Swim](https://swimm.io/): It automatically generates documentation for your code using AI.
 * [Cline](https://github.com/cline/cline): An AI assistant for software development tasks. It can be used from the console and the editor with support for multiple models.
+* [AutoGen](https://microsoft.github.io/autogen/0.2/): Framework for agentic AI.
+
+## Design
+* [OpenRewrite](https://docs.openrewrite.org/): Refactoring ecosystem for souce code.
+* [Polyglot Code Explorer](https://polyglot.korny.info/tools/explorer/description/): Visualization of source code information.
