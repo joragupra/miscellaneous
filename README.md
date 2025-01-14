@@ -16,3 +16,4 @@ Interesting things found in the internet. Usually tools and cool projects.
 ## Design
 * [OpenRewrite](https://docs.openrewrite.org/): Refactoring ecosystem for souce code.
 * [Polyglot Code Explorer](https://polyglot.korny.info/tools/explorer/description/): Visualization of source code information.
+* [ArchiMate](https://www.archimatetool.com): Modelling tool for enterprise architecture. Open source.
